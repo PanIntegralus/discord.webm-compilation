@@ -1,3 +1,4 @@
+![](https://i.imgur.com/tpldYeP.gif)
 # Cool .webm compilation
 An archive of cool .webm files to send to your friends.
 **I do not own any of these files nor created them.**
