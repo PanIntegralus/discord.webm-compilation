@@ -1,5 +1,4 @@
 ![](https://i.imgur.com/tpldYeP.gif)
-# Cool .webm compilation
 An archive of cool .webm files to send to your friends.
 **I do not own any of these files nor created them.**
 I just found them and though a list of them would be nice to have. 
@@ -32,3 +31,4 @@ https://cdn.discordapp.com/attachments/1002683090113658930/1002683210238545941/R
 
 https://cdn.discordapp.com/attachments/891822405935304704/1003362967112388628/thetruecshit_Sporadic.webm
 
+https://cdn.discordapp.com/attachments/872257939585531944/1003150751146725466/Rice_Cakes.webm
