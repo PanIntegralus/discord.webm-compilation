@@ -33,3 +33,14 @@ https://cdn.discordapp.com/attachments/1002683090113658930/1002683210238545941/R
 https://cdn.discordapp.com/attachments/891822405935304704/1003362967112388628/thetruecshit_Sporadic.webm
 
 https://cdn.discordapp.com/attachments/872257939585531944/1003150751146725466/Rice_Cakes.webm
+
+https://cdn.discordapp.com/attachments/593357132015992843/1008857013721255996/7a85953152014d9ba7dbef7bb5a625b7_Audiobounce.webm
+
+https://cdn.discordapp.com/attachments/593357132015992843/1008857045379842169/54b8a5d66d964a48a7e0d0c698fffe1d-1_Shrink.webm
+
+https://cdn.discordapp.com/attachments/593357132015992843/1008857082096795698/hhhhhh_weirdm_1.webm
+
+https://cdn.discordapp.com/attachments/593357132015992843/1008857117890986045/capci_sporadic.webm
+
+MY FAVORITEEEEEEEEEEEEEEEEEEE Best of best videos!!!!!!!!!!! 
+https://cdn.discordapp.com/attachments/593357132015992843/1006809675402072164/QuackQuack2.webm
