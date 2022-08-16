@@ -43,3 +43,24 @@ https://cdn.discordapp.com/attachments/593357132015992843/1008857082096795698/hh
 https://cdn.discordapp.com/attachments/593357132015992843/1008857117890986045/capci_sporadic.webm
 
 https://cdn.discordapp.com/attachments/593357132015992843/1006809675402072164/QuackQuack2.webm
+
+https://cdn.discordapp.com/attachments/1008891430640570418/1008891866294530158/spy.webm
+
+https://cdn.discordapp.com/attachments/1008891430640570418/1008891863777951794/necosquish.webm
+
+https://cdn.discordapp.com/attachments/1008891430640570418/1008891824716386404/huj.webm
+
+https://cdn.discordapp.com/attachments/1008891430640570418/1008891824196296714/go_crazy.webm
+
+https://cdn.discordapp.com/attachments/1008891430640570418/1008891823277752350/elegant.webm
+
+https://cdn.discordapp.com/attachments/1008891430640570418/1008891822652797008/efr_sp.webm
+
+https://cdn.discordapp.com/attachments/1008891430640570418/1008891822069792868/coloride.webm
+
+https://cdn.discordapp.com/attachments/1008891430640570418/1008891779510186045/cirno.webm
+
+https://cdn.discordapp.com/attachments/1008891430640570418/1008891779128492082/carl.webm
+
+https://cdn.discordapp.com/attachments/1008891430640570418/1008891778579042445/capybara_shrink.webm
+
