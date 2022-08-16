@@ -2,7 +2,7 @@
 
 An archive of cool .webm files to send to your friends.
 **I do not own any of these files nor created them.**
-I just found them and though a list of them would be nice to have.
+I just found them and though making a list would be nice.
 
 Just a quick warning before you send these out there, some videos have **VERY LOUD SOUNDS**.
 
