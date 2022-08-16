@@ -2,7 +2,9 @@
 
 An archive of cool .webm files to send to your friends.
 **I do not own any of these files nor created them.**
-I just found them and though a list of them would be nice to have. 
+I just found them and though a list of them would be nice to have.
+
+Just a quick warning before you send these out there, some videos have **VERY LOUD SOUNDS**.
 
 https://cdn.discordapp.com/attachments/880342502660530176/1003330211972137070/mixed.webm
 
