@@ -42,5 +42,4 @@ https://cdn.discordapp.com/attachments/593357132015992843/1008857082096795698/hh
 
 https://cdn.discordapp.com/attachments/593357132015992843/1008857117890986045/capci_sporadic.webm
 
-MY FAVORITEEEEEEEEEEEEEEEEEEE Best of best videos!!!!!!!!!!! 
 https://cdn.discordapp.com/attachments/593357132015992843/1006809675402072164/QuackQuack2.webm
