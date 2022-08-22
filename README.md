@@ -66,5 +66,7 @@ https://cdn.discordapp.com/attachments/1008891430640570418/1008891779128492082/c
 
 https://cdn.discordapp.com/attachments/1008891430640570418/1008891778579042445/capybara_shrink.webm
 
+https://media.discordapp.net/attachments/874719200059486240/1008982530126528603/dis_keyframes.webm
+
 ## Contributions open!
 If you think you have more videos to add to this list, just open a pull request!
