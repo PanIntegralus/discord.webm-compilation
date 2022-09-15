@@ -72,5 +72,10 @@ https://media.discordapp.net/attachments/874719200059486240/1008982530126528603/
 
 https://cdn.discordapp.com/attachments/891283371538395156/1006983270224904252/out.webm
 
+https://cdn.discordapp.com/attachments/825907716987158588/1003796440012816526/ski-ba-bop-ba-dop-bop_wacked..webm
+
+https://cdn.discordapp.com/attachments/883415418709114893/1003580305908695110/cat_nonsense.webm?size=4096
+
+
 ## Contributions open!
 If you think you have more videos to add to this list, just open a pull request!
