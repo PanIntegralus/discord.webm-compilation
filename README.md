@@ -76,6 +76,7 @@ https://cdn.discordapp.com/attachments/825907716987158588/1003796440012816526/sk
 
 https://cdn.discordapp.com/attachments/883415418709114893/1003580305908695110/cat_nonsense.webm?size=4096
 
+https://cdn.discordapp.com/attachments/359882301267509250/1020465720880005140/dog_keyframes.webm
 
 ## Contributions open!
 If you think you have more videos to add to this list, just open a pull request!
