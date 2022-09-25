@@ -78,5 +78,7 @@ https://cdn.discordapp.com/attachments/883415418709114893/1003580305908695110/ca
 
 https://cdn.discordapp.com/attachments/359882301267509250/1020465720880005140/dog_keyframes.webm
 
+https://cdn.discordapp.com/attachments/1008891430640570418/1023413479169863781/based.webm
+
 ## Contributions open!
 If you think you have more videos to add to this list, just open a pull request!
