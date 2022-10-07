@@ -80,5 +80,17 @@ https://cdn.discordapp.com/attachments/359882301267509250/1020465720880005140/do
 
 https://cdn.discordapp.com/attachments/1008891430640570418/1023413479169863781/based.webm
 
+https://odysee.com/$/download/succ-reverberations-remake_sporadic/14a3c83716a34c4ed159c50bdef6b522b46e397a
+
+https://odysee.com/$/download/SpinningPhedang_fixed_rotate/b0f094fa6f1b24a1dadd4ad5b70466d34751c4c5
+
+## Preview all those videos
+https://perkedel.neocities.org/discord_bouncing_video/
+
+Perkedel Technologies provided those all bouncing video try me's [here](https://perkedel.neocities.org/discord_bouncing_video/ ). The effect also works on basically default HTML video player. Yes, that includes your browser. PC, Mobile, all Chromium & probably Firefox based.
+
+## Why does this work
+It turns out the reason for the bouncing effect was because Discord client (made with [Electron.js](https://www.electronjs.org/ )) forgot to add some measures in their video player widget that prevents size changes due to inconsistent frame size in the webm file.
+ 
 ## Contributions open!
 If you think you have more videos to add to this list, just open a pull request!
