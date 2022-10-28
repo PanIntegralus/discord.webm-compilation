@@ -84,6 +84,8 @@ https://odysee.com/$/download/succ-reverberations-remake_sporadic/14a3c83716a34c
 
 https://odysee.com/$/download/SpinningPhedang_fixed_rotate/b0f094fa6f1b24a1dadd4ad5b70466d34751c4c5
 
+https://cdn.discordapp.com/attachments/134720091576205312/1032556713494196244/how_to_make_a_krabby_patty.webm
+
 ## Preview all those videos
 https://perkedel.neocities.org/discord_bouncing_video/
 
