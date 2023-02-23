@@ -1,8 +1,12 @@
-![](https://i.imgur.com/tpldYeP.gif)
+<img src="https://i.imgur.com/tpldYeP.gif" align="right"></img>
 
+## What is this?
 An archive of cool .webm files to send to your friends.
 **I do not own any of these files nor created them.**
 I just found them and though making a list would be nice.
+
+## Quick update (23/02/2023)
+### Discord just updated the way videos are shown, so it's likely that more than one of the videos on this list are probably broken. I tried some of them and they "work". Sort of.
 
 Just a quick warning before you send these out there, some videos have **VERY LOUD SOUNDS**.
 
