@@ -92,6 +92,8 @@ https://cdn.discordapp.com/attachments/134720091576205312/1032556713494196244/ho
 
 https://cdn.discordapp.com/attachments/1014145814265864284/1019983610297733184/Yo_soy_tu_impostor_letra_en_HD_audiobounce.webm
 
+https://cdn.discordapp.com/attachments/829722143326994513/1086426591783043204/SPOILER_kot.webm
+
 ## Preview all those videos
 https://perkedel.neocities.org/discord_bouncing_video/
 
