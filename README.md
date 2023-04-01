@@ -101,7 +101,7 @@ https://cdn.discordapp.com/attachments/920154280395161610/1091497835708551208/ne
 </details>
 
 ## Why does this work
-It turns out the reason for the bouncing effect was because Discord client (made with [Electron.js](https://www.electronjs.org/ )) forgot to add some measures in their video player widget that prevents size changes due to inconsistent frame size in the webm file.
+The cause of the effect is that the Discord client does not have some measures in its video player widget that prevent resizing due to frame size inconsistency in the webm file, thus resulting in a video that constantly changes size visually.
  
 ## Contributions open!
 If you think you have more videos to add to this list, just open a pull request!
