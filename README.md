@@ -10,6 +10,9 @@ I just found them and though making a list would be nice.
 
 Just a quick warning before you send these out there, some videos have **VERY LOUD SOUNDS**.
 
+<details>
+<summary>👋 Click me to show the URLs</summary>
+
 https://cdn.discordapp.com/attachments/950077002654814229/1018508500512542740/bingbong.webm
 
 https://cdn.discordapp.com/attachments/880342502660530176/1003330211972137070/mixed.webm
@@ -95,6 +98,7 @@ https://cdn.discordapp.com/attachments/1014145814265864284/1019983610297733184/Y
 https://cdn.discordapp.com/attachments/829722143326994513/1086426591783043204/SPOILER_kot.webm
 
 https://cdn.discordapp.com/attachments/920154280395161610/1091497835708551208/neco-arc_bounce.webm
+</details>
 
 ## Why does this work
 It turns out the reason for the bouncing effect was because Discord client (made with [Electron.js](https://www.electronjs.org/ )) forgot to add some measures in their video player widget that prevents size changes due to inconsistent frame size in the webm file.
