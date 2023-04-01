@@ -94,10 +94,7 @@ https://cdn.discordapp.com/attachments/1014145814265864284/1019983610297733184/Y
 
 https://cdn.discordapp.com/attachments/829722143326994513/1086426591783043204/SPOILER_kot.webm
 
-## Preview all those videos
-https://perkedel.neocities.org/discord_bouncing_video/
-
-Perkedel Technologies provided those all bouncing videos [here](https://perkedel.neocities.org/discord_bouncing_video/ ). The effect also works on basically default HTML video player. Yes, that includes your browser. PC, Mobile, all Chromium & probably Firefox based.
+https://cdn.discordapp.com/attachments/920154280395161610/1091497835708551208/neco-arc_bounce.webm
 
 ## Why does this work
 It turns out the reason for the bouncing effect was because Discord client (made with [Electron.js](https://www.electronjs.org/ )) forgot to add some measures in their video player widget that prevents size changes due to inconsistent frame size in the webm file.
