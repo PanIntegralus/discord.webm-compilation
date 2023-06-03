@@ -39,7 +39,7 @@ https://cdn.discordapp.com/attachments/887689631204802590/1002655825711611914/su
 
 https://cdn.discordapp.com/attachments/616739915937480717/1002895521201008670/1656800525664.webm
 
-https://cdn.discordapp.com/attachments/1002683090113658930/1002683210238545941/Ruptured_Rollercoaster.webm
+~~https://cdn.discordapp.com/attachments/1002683090113658930/1002683210238545941/Ruptured_Rollercoaster.webm~~ (broken)
 
 https://cdn.discordapp.com/attachments/891822405935304704/1003362967112388628/thetruecshit_Sporadic.webm
 
