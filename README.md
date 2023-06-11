@@ -104,4 +104,4 @@ https://cdn.discordapp.com/attachments/920154280395161610/1091497835708551208/ne
 The cause of the effect is that the Discord client does not have some measures in its video player widget that prevent resizing due to frame size inconsistency in the webm file, thus resulting in a video that constantly changes size visually.
  
 ## Contributions open!
-If you think you have more videos to add to this list, just open a pull request!
+If you think you have more videos to add to this list or find any video broken, just open a pull request to let me know!
