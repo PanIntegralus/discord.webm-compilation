@@ -98,6 +98,10 @@ https://cdn.discordapp.com/attachments/1014145814265864284/1019983610297733184/Y
 https://cdn.discordapp.com/attachments/829722143326994513/1086426591783043204/SPOILER_kot.webm
 
 https://cdn.discordapp.com/attachments/920154280395161610/1091497835708551208/neco-arc_bounce.webm
+
+https://cdn.discordapp.com/attachments/1052336253649027233/1124915117566468126/dum.webm
+
+https://cdn.discordapp.com/attachments/718519339745017887/1124985653873082390/Markiplier_Dances-1-1_sporadic.webm
 </details>
 
 ## Why does this work
