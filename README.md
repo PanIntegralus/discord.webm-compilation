@@ -6,7 +6,7 @@ An archive of cool .webm files to send to your friends.
 I just found them and though making a list would be nice.
 
 ## Quick update (23/02/2023)
-### Discord just updated the way videos are shown, so it's likely that more than one video on this list are probably broken. I tried some of them and they "work".
+### Discord just updated the way videos are shown, so it's likely that more than one video on this list is probably broken. I tried some of them and they "work".
 
 Just a quick warning before you send these out there, some videos have **REALLY LOUD SOUNDS**.
 
