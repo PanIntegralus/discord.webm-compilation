@@ -104,6 +104,8 @@ https://cdn.discordapp.com/attachments/1052336253649027233/1124915117566468126/d
 https://cdn.discordapp.com/attachments/718519339745017887/1124985653873082390/Markiplier_Dances-1-1_sporadic.webm
 
 https://cdn.discordapp.com/attachments/1020831797313032252/1134197300223299694/Screen_Recording_20230627_124037_Instagram_1_sporadic.webm
+
+https://cdn.discordapp.com/attachments/1008891430640570418/1143468884087799898/SPOILER_SPOILER_coolanimegirl.webm
 </details>
 
 ## Why does this work
