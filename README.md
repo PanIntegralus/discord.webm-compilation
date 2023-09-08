@@ -106,6 +106,11 @@ https://cdn.discordapp.com/attachments/718519339745017887/1124985653873082390/Ma
 https://cdn.discordapp.com/attachments/1020831797313032252/1134197300223299694/Screen_Recording_20230627_124037_Instagram_1_sporadic.webm
 
 https://cdn.discordapp.com/attachments/1008891430640570418/1143468884087799898/SPOILER_SPOILER_coolanimegirl.webm
+
+https://cdn.discordapp.com/attachments/403698615446536206/1149674740777234442/OwO.webm
+
+https://cdn.discordapp.com/attachments/1142965723203915846/1149677431121252403/x3.webm
+
 </details>
 
 ## Why does this work
@@ -113,3 +118,4 @@ The Discord client doesn't have measures in its video player widget to prevent r
  
 ## Contributions open!
 If you think you have more videos to add to this list or find any video broken, just open a pull request to let me know!
+
