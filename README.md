@@ -111,6 +111,12 @@ https://cdn.discordapp.com/attachments/403698615446536206/1149674740777234442/Ow
 
 https://cdn.discordapp.com/attachments/1142965723203915846/1149677431121252403/x3.webm
 
+https://cdn.discordapp.com/attachments/1150542434657386666/1155963862676414504/video_1_keyframes.webm
+
+https://cdn.discordapp.com/attachments/1133818118066688123/1149719820850434079/the_greatest_of_them_all.webm
+
+https://cdn.discordapp.com/attachments/1117538658740879451/1156605977160859758/cute_koishi.webm
+
 </details>
 
 ## Why does this work
