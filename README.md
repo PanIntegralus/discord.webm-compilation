@@ -117,6 +117,18 @@ https://cdn.discordapp.com/attachments/1133818118066688123/1149719820850434079/t
 
 https://cdn.discordapp.com/attachments/1117538658740879451/1156605977160859758/cute_koishi.webm
 
+~~https://cdn.discordapp.com/attachments/1133818118066688123/1156965217557823540/tame_impala.webm~~ (broken)
+
+https://cdn.discordapp.com/attachments/1133818118066688123/1156965216509247688/controversy_audiobounce.webm
+
+https://cdn.discordapp.com/attachments/1133818118066688123/1156965214739251200/me_when_shrink.webm
+
+https://cdn.discordapp.com/attachments/1117538658740879451/1157118244310761512/SPOILER_totally_not_ride_the_lightning_bounce.webm
+
+https://cdn.discordapp.com/attachments/1133818118066688123/1157533892958502932/grunt_sporadic.webm
+
+https://cdn.discordapp.com/attachments/1133818118066688123/1158259593089134685/funked.webm
+
 </details>
 
 The broken ones are staying for archival purposes only.
