@@ -21,7 +21,7 @@ https://cdn.discordapp.com/attachments/617061138877906944/1002968648052387850/pi
 
 https://media.discordapp.net/attachments/554047934543560715/1002785763819270215/output.webm
 
-~~https://cdn.discordapp.com/attachments/701114760187478126/1002998748357603389/clicktodelete_1.webm~~ (broken)
+~~https://cdn.discordapp.com/attachments/701114760187478126/1002998748357603389/clicktodelete_1.webm~~ (broken) (link deleted)
 
 https://cdn.discordapp.com/attachments/616739915937480717/1002898590500397076/1642522983372.webm
 
@@ -101,7 +101,7 @@ https://cdn.discordapp.com/attachments/920154280395161610/1091497835708551208/ne
 
 https://cdn.discordapp.com/attachments/1052336253649027233/1124915117566468126/dum.webm
 
-https://cdn.discordapp.com/attachments/718519339745017887/1124985653873082390/Markiplier_Dances-1-1_sporadic.webm
+~~https://cdn.discordapp.com/attachments/718519339745017887/1124985653873082390/Markiplier_Dances-1-1_sporadic.webm~~ (link deleted)
 
 https://cdn.discordapp.com/attachments/1020831797313032252/1134197300223299694/Screen_Recording_20230627_124037_Instagram_1_sporadic.webm
 
@@ -109,7 +109,7 @@ https://cdn.discordapp.com/attachments/1008891430640570418/1143468884087799898/S
 
 https://cdn.discordapp.com/attachments/403698615446536206/1149674740777234442/OwO.webm
 
-https://cdn.discordapp.com/attachments/1142965723203915846/1149677431121252403/x3.webm
+~~https://cdn.discordapp.com/attachments/1142965723203915846/1149677431121252403/x3.webm~~ (link deleted)
 
 https://cdn.discordapp.com/attachments/1150542434657386666/1155963862676414504/video_1_keyframes.webm
 
@@ -129,9 +129,23 @@ https://cdn.discordapp.com/attachments/1133818118066688123/1157533892958502932/g
 
 https://cdn.discordapp.com/attachments/1133818118066688123/1158259593089134685/funked.webm
 
+https://cdn.discordapp.com/attachments/1133818118066688123/1163166120119910572/666-6_keyframes.webm
+
+https://cdn.discordapp.com/attachments/1133818118066688123/1163166119662735370/necoarc-1.webm
+
+https://cdn.discordapp.com/attachments/1133818118066688123/1163166118333141133/nightcore_rave.webm
+
+https://cdn.discordapp.com/attachments/1133818118066688123/1163166118836453396/gamer_audiobounce.webm
+
+https://cdn.discordapp.com/attachments/1133818118066688123/1163166117200674976/space_song_keyframes.webm
+
+https://cdn.discordapp.com/attachments/1133818118066688123/1163166116286304266/the_greatest_of_them_all.webm 
+
 </details>
 
 The broken ones are staying for archival purposes only.
+
+NOTE: Sporadic videos are also broken.
 
 ## Why does this work
 The Discord client doesn't have measures in its video player widget to prevent resizing due to frame size inconsistency in the webm file, thus resulting in a video that constantly changes size visually.
