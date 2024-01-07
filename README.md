@@ -1,4 +1,4 @@
-## Discord has patched this. 
+## Discord has _partially_ patched this. Embed links still work.
 
 <img src="https://i.imgur.com/tpldYeP.gif" align="right"></img>
 
