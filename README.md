@@ -154,7 +154,7 @@ it's not a bug.
 
 It's WebM functionality. The purpose of the video container is to adjust video dynamically with native effects built, (grow shrink, reverse, flip, multiple audio tracks.
 
-if anything, it's probably a bug that it's broke. [font](https://old.reddit.com/r/discordapp/comments/17hb9pp/discord_has_broken_the_functionality_of_most_webm/]
+if anything, it's probably a bug that it's broke. [font](https://old.reddit.com/r/discordapp/comments/17hb9pp/discord_has_broken_the_functionality_of_most_webm/)
 
 It's all about format specification funkyness, probably because most players don't handle all the edge cases properly. [font](https://old.reddit.com/r/discordapp/comments/esvdng/cursed_videowebm_glitch_anyone_know_how_to_do_it/)
 ## Contributions open!
