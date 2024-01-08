@@ -128,6 +128,21 @@ https://cdn.discordapp.com/attachments/1133818118066688123/1157533892958502932/g
 
 https://cdn.discordapp.com/attachments/1133818118066688123/1158259593089134685/funked.webm
 
+https://cdn.discordapp.com/attachments/1183073964520656939/1193939269862043709/peter.webm
+
+https://cdn.discordapp.com/attachments/1183073964520656939/1193936905847439440/clicktoclose.webm
+
+https://cdn.discordapp.com/attachments/1183073964520656939/1193316170510643210/duckz.webm
+
+https://cdn.discordapp.com/attachments/1183073964520656939/1193310814338301992/LUL.webm
+
+https://cdn.discordapp.com/attachments/1183073964520656939/1193310363479982260/LOLV2.webm
+
+https://cdn.discordapp.com/attachments/1183073964520656939/1193310111041605783/ULTIMATELOL.webm
+
+https://cdn.discordapp.com/attachments/1183073964520656939/1193304562283581480/yolooo_sporadic_-_Copia_2.webm
+
+https://cdn.discordapp.com/attachments/1183073964520656939/1193316836893261964/ghrkugheg.webm
 </details>
 
 The broken ones are staying for archival purposes only.
