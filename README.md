@@ -143,6 +143,8 @@ https://cdn.discordapp.com/attachments/1183073964520656939/1193310111041605783/U
 https://cdn.discordapp.com/attachments/1183073964520656939/1193304562283581480/yolooo_sporadic_-_Copia_2.webm
 
 https://cdn.discordapp.com/attachments/1183073964520656939/1193316836893261964/ghrkugheg.webm
+
+https://cdn.discordapp.com/attachments/1183073964520656939/1193943489629663263/amogussus.webm
 </details>
 
 The broken ones are staying for archival purposes only.
