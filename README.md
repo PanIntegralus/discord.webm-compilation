@@ -147,11 +147,16 @@ https://cdn.discordapp.com/attachments/1183073964520656939/1193316836893261964/g
 https://cdn.discordapp.com/attachments/1183073964520656939/1193943489629663263/amogussus.webm
 </details>
 
-The broken ones are staying for archival purposes only.
+The broken ones are staying for **archival purposes *only.***
 
 ## Why does this work
-The Discord client doesn't have measures in its video player widget to prevent resizing due to frame size inconsistency in the webm file, thus resulting in a video that constantly changes size visually.
- 
+it's not a bug.
+
+It's WebM functionality. The purpose of the video container is to adjust video dynamically with native effects built, (grow shrink, reverse, flip, multiple audio tracks.
+
+if anything, it's probably a bug that it's broke. (font)[https://old.reddit.com/r/discordapp/comments/17hb9pp/discord_has_broken_the_functionality_of_most_webm/]
+
+It's all about format specification funkyness, probably because most players don't handle all the edge cases properly. (font)[https://old.reddit.com/r/discordapp/comments/esvdng/cursed_videowebm_glitch_anyone_know_how_to_do_it/]
 ## Contributions open!
 If you think you have more videos to add to this list or find any video broken, just open a pull request to let me know!
 
