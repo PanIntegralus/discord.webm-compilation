@@ -152,6 +152,16 @@ https://cdn.discordapp.com/attachments/1183073964520656939/1193948451080253601/a
 https://cdn.discordapp.com/attachments/1183073964520656939/1193949460238180472/amogusv3.webm
 
 https://cdn.discordapp.com/attachments/1183073964520656939/1193953080702677132/petaaaaaaaa.webm
+
+https://cdn.discordapp.com/attachments/1183073964520656939/1193960788243796058/emojimega.webm
+
+https://cdn.discordapp.com/attachments/1183073964520656939/1193960788696764446/emojiultimate.webm
+
+https://cdn.discordapp.com/attachments/1183073964520656939/1193960789183320065/emojiv3.webm
+
+https://cdn.discordapp.com/attachments/1183073964520656939/1193960789585956914/emojiv2.webm
+
+https://cdn.discordapp.com/attachments/1183073964520656939/1193958353064439828/crazyemoji.webm
 </details>
 
 The broken ones are staying for **archival purposes *only.***
