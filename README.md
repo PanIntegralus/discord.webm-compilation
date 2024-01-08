@@ -146,6 +146,8 @@ https://cdn.discordapp.com/attachments/1183073964520656939/1193304562283581480/y
 https://cdn.discordapp.com/attachments/1183073964520656939/1193316836893261964/ghrkugheg.webm
 
 https://cdn.discordapp.com/attachments/1183073964520656939/1193943489629663263/amogussus.webm
+
+https://cdn.discordapp.com/attachments/1183073964520656939/1193948451080253601/amogusv2.webm
 </details>
 
 The broken ones are staying for **archival purposes *only.***
