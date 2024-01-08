@@ -5,6 +5,7 @@
 ## What is this?
 An archive of cool .webm files to send to your friends.
 **I do not own any of these files nor created them.**
+Some of them have many flashing lights or make a lot of movement, **possible with caution if you have epilepsy.**
 I just found them and though making a list would be nice.
 
 Just a quick warning before you send these out there, some videos have **REALLY LOUD SOUNDS**.
