@@ -175,5 +175,5 @@ if anything, it's probably a bug that it's broke. [ref](https://old.reddit.com/r
 
 It's all about format specification funkyness, probably because most players don't handle all the edge cases properly. [ref](https://old.reddit.com/r/discordapp/comments/esvdng/cursed_videowebm_glitch_anyone_know_how_to_do_it/)
 ## Contributions open!
-If you think you have more videos to add to this list or find any video broken, just open a pull request to let me know!
+If you think you have more videos to add to this list or find any video broken, **just open a *pull request* to let me know!**
 
