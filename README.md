@@ -128,6 +128,8 @@ https://cdn.discordapp.com/attachments/1133818118066688123/1157533892958502932/g
 
 https://cdn.discordapp.com/attachments/1133818118066688123/1158259593089134685/funked.webm
 
+https://cdn.discordapp.com/attachments/1008891430640570418/1263262603304763412/S_K_E_L_E_T_O_N.webm
+
 </details>
 
 The broken ones are staying for archival purposes only.
