@@ -10,7 +10,7 @@ I just found them and though making a list would be nice.
 Just a quick warning before you send these out there, some videos have **REALLY LOUD SOUNDS**.
 
 > [!NOTE]
-> URLs will stay here for archiving purposes, along with the broken ones. Refer to the "webm" folder on the repository for permanent links.
+> URLs will stay here for archiving purposes, along with the broken ones. Refer to the "[webm](https://github.com/PanIntegralus/discord.webm-compilation/tree/main/webm)" folder on the repository for permanent links.
 
 <details>
 <summary>👋 Click me to show the URLs</summary>
