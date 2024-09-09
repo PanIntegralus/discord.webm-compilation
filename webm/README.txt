@@ -1,1 +1,1 @@
-WEBMs here, thats because of Disscord links policy.
+WEBMs here, thats because of Discord links policy.
