@@ -9,6 +9,9 @@ I just found them and though making a list would be nice.
 
 Just a quick warning before you send these out there, some videos have **REALLY LOUD SOUNDS**.
 
+> [!NOTE]
+> URLs will stay here for archiving purposes, along with the broken ones. Refer to the "webm" folder on the repository for permanent links.
+
 <details>
 <summary>👋 Click me to show the URLs</summary>
 
@@ -131,8 +134,6 @@ https://cdn.discordapp.com/attachments/1133818118066688123/1158259593089134685/f
 https://cdn.discordapp.com/attachments/1008891430640570418/1263262603304763412/S_K_E_L_E_T_O_N.webm
 
 </details>
-
-The broken ones are staying for archival purposes only.
 
 ## Why does this work
 The Discord client doesn't have measures in its video player widget to prevent resizing due to frame size inconsistency in the webm file, thus resulting in a video that constantly changes size visually.
