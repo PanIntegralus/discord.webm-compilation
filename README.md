@@ -11,7 +11,7 @@ Just a quick warning before you send these out there, some videos have **REALLY 
 
 ----
 
-to get this working, you download the interesting.webm video
+to get this working, you download the video
 
 then you send it, copy the link, and delete it
 
