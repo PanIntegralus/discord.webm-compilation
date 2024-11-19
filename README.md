@@ -9,6 +9,14 @@ I just found them and though making a list would be nice.
 
 Just a quick warning before you send these out there, some videos have **REALLY LOUD SOUNDS**.
 
+----
+
+to get this working, you download the interesting.webm video
+
+then you send it, copy the link, and delete it
+
+now what you're going to do is paste the copied link to a server/gc/whatever and ur done
+
 > [!NOTE]
 > URLs will stay here for archiving purposes, along with the broken ones. Refer to the "[webm](https://github.com/PanIntegralus/discord.webm-compilation/tree/main/webm)" folder on the repository for permanent links.
 
